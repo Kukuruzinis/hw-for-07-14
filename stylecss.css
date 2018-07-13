@@ -1,0 +1,55 @@
+.centr {
+	margin: auto;
+	width: 750px;
+}
+nav{
+	background-color: grey;
+	height: 50px;
+}
+footer {
+	background-color: grey;
+}
+ul {
+	display: inline;
+	float: right;
+	list-style: none;
+	color: white;
+}
+li {
+	display: inline;
+	padding-right: 10px;
+}
+h1 {
+	text-align: center;
+}
+.more {
+	background-color: black;
+	color: white;
+	text-align: center;
+	text-decoration: underline;
+	width: 100px;
+	border: none;
+	margin: 220px 325px 50px 325px;
+	width: 100px;
+	height: 35px;
+}
+.abus {
+	text-align: right;
+}
+.atext {
+	text-align: justify;
+}
+section {
+	padding: 50px 0px 50px 0px;
+}
+.copyr {
+	color: white;
+	font-style: italic;
+	text-align: center;
+}
+.ctc {
+	background-color: #F0FEFE;
+}
+header {
+	background-color: #E2E3E3;
+}
